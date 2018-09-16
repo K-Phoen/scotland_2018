@@ -1,0 +1,57 @@
+boucle:
+    title: Scotland – 2018
+
+    map_provider: mapbox
+    map_api_key: pk.eyJ1Ijoiay1waG9lbiIsImEiOiJjamZmbjl0dzMzejB1MzNucm92MzhiYWlwIn0.zPborWgq1bj6PEaZgJRiEA
+
+    start: Clermont-Ferrand, France
+
+    steps:
+        -
+            to: Lyon, France
+            with: bus
+            date: '2018-08-28'
+        -
+            to: Edinburgh, Scotland
+            with: plane
+            date: '2018-08-31'
+        -
+            to: Cairngorms National Park, Scotland
+            with: car
+            date: '2018-09-04'
+        -
+            to: Inverness, Scotland
+            with: car
+            date: '2018-09-06'
+        -
+            to: Eilean Donan Castle, Scotland
+            with: car
+            date: '2018-09-07'
+        -
+            to: Isle of Skye, Scotland
+            with: car
+            date: '2018-09-07'
+        -
+            to: Fort William, Scotland
+            with: car
+            date: '2018-09-10'
+        -
+            to: Oban, Scotland
+            with: car
+            date: '2018-09-10'
+        -
+            to: Loch Lomond, Scotland
+            with: car
+            date: '2018-09-12'
+        -
+            to: Stirling, Scotland
+            with: car
+            date: '2018-09-12'
+        -
+            to: Glasgow, Scotland
+            with: car
+            date: '2018-09-13'
+        -
+            to: Lyon, France
+            with: plane
+            date: '2018-09-15'

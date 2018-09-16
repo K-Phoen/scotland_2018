@@ -1,0 +1,205 @@
+{
+    "start": {
+        "from": {
+            "name": "Clermont-Ferrand, France",
+            "lat": 45.7774551,
+            "long": 3.0819427
+        },
+        "departure_date": "2018-08-28",
+        "with": "bus"
+    },
+    "end": {
+        "arrival_date": "2018-09-15"
+    },
+    "steps": {
+        "bus": [
+            {
+                "from": {
+                    "name": "Clermont-Ferrand, France",
+                    "lat": 45.7774551,
+                    "long": 3.0819427
+                },
+                "to": {
+                    "name": "Lyon, France",
+                    "lat": 45.7578137,
+                    "long": 4.8320114
+                },
+                "path": "",
+                "arrival_date": "2018-08-28",
+                "departure_date": "2018-08-31"
+            }
+        ],
+        "car": [
+            {
+                "from": {
+                    "name": "Edinburgh, Scotland",
+                    "lat": 55.9496416,
+                    "long": -3.1902352
+                },
+                "to": {
+                    "name": "Cairngorms National Park, Scotland",
+                    "lat": 57.0770909,
+                    "long": -3.60915727387858
+                },
+                "path": "",
+                "arrival_date": "2018-09-04",
+                "departure_date": "2018-09-06"
+            },
+            {
+                "from": {
+                    "name": "Cairngorms National Park, Scotland",
+                    "lat": 57.0770909,
+                    "long": -3.60915727387858
+                },
+                "to": {
+                    "name": "Inverness, Scotland",
+                    "lat": 57.4790124,
+                    "long": -4.225739
+                },
+                "path": "",
+                "arrival_date": "2018-09-06",
+                "departure_date": "2018-09-07"
+            },
+            {
+                "from": {
+                    "name": "Inverness, Scotland",
+                    "lat": 57.4790124,
+                    "long": -4.225739
+                },
+                "to": {
+                    "name": "Eilean Donan Castle, Scotland",
+                    "lat": 57.27386745,
+                    "long": -5.51603354701258
+                },
+                "path": "",
+                "arrival_date": "2018-09-07",
+                "departure_date": "2018-09-07"
+            },
+            {
+                "from": {
+                    "name": "Eilean Donan Castle, Scotland",
+                    "lat": 57.27386745,
+                    "long": -5.51603354701258
+                },
+                "to": {
+                    "name": "Isle of Skye, Scotland",
+                    "lat": 57.363045,
+                    "long": -6.3019792248062
+                },
+                "path": "",
+                "arrival_date": "2018-09-07",
+                "departure_date": "2018-09-10"
+            },
+            {
+                "from": {
+                    "name": "Isle of Skye, Scotland",
+                    "lat": 57.363045,
+                    "long": -6.3019792248062
+                },
+                "to": {
+                    "name": "Fort William, Scotland",
+                    "lat": 56.8178285,
+                    "long": -5.110974
+                },
+                "path": "",
+                "arrival_date": "2018-09-10",
+                "departure_date": "2018-09-10"
+            },
+            {
+                "from": {
+                    "name": "Fort William, Scotland",
+                    "lat": 56.8178285,
+                    "long": -5.110974
+                },
+                "to": {
+                    "name": "Oban, Scotland",
+                    "lat": 56.415695,
+                    "long": -5.4734688
+                },
+                "path": "",
+                "arrival_date": "2018-09-10",
+                "departure_date": "2018-09-12"
+            },
+            {
+                "from": {
+                    "name": "Oban, Scotland",
+                    "lat": 56.415695,
+                    "long": -5.4734688
+                },
+                "to": {
+                    "name": "Loch Lomond, Scotland",
+                    "lat": 56.15619625,
+                    "long": -4.65621052110608
+                },
+                "path": "",
+                "arrival_date": "2018-09-12",
+                "departure_date": "2018-09-12"
+            },
+            {
+                "from": {
+                    "name": "Loch Lomond, Scotland",
+                    "lat": 56.15619625,
+                    "long": -4.65621052110608
+                },
+                "to": {
+                    "name": "Stirling, Scotland",
+                    "lat": 56.1181242,
+                    "long": -3.9360012
+                },
+                "path": "",
+                "arrival_date": "2018-09-12",
+                "departure_date": "2018-09-13"
+            },
+            {
+                "from": {
+                    "name": "Stirling, Scotland",
+                    "lat": 56.1181242,
+                    "long": -3.9360012
+                },
+                "to": {
+                    "name": "Glasgow, Scotland",
+                    "lat": 55.856656,
+                    "long": -4.2435817
+                },
+                "path": "",
+                "arrival_date": "2018-09-13",
+                "departure_date": "2018-09-15"
+            }
+        ],
+        "plane": [
+            {
+                "from": {
+                    "name": "Lyon, France",
+                    "lat": 45.7578137,
+                    "long": 4.8320114
+                },
+                "to": {
+                    "name": "Edinburgh, Scotland",
+                    "lat": 55.9496416,
+                    "long": -3.1902352
+                },
+                "path": "",
+                "arrival_date": "2018-08-31",
+                "departure_date": "2018-09-04"
+            },
+            {
+                "from": {
+                    "name": "Glasgow, Scotland",
+                    "lat": 55.856656,
+                    "long": -4.2435817
+                },
+                "to": {
+                    "name": "Lyon, France",
+                    "lat": 45.7578137,
+                    "long": 4.8320114
+                },
+                "path": "",
+                "arrival_date": "2018-09-15",
+                "departure_date": ""
+            }
+        ],
+        "boat": [],
+        "train": [],
+        "walking": []
+    }
+}
