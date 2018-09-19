@@ -15,10 +15,16 @@ boucle:
             to: Edinburgh, Scotland
             with: plane
             date: '2018-08-31'
+            album:
+                path: albums/edinburgh
+                cover: P9020042.JPG
         -
             to: Cairngorms National Park, Scotland
             with: car
             date: '2018-09-04'
+            album:
+                path: albums/cairngorms
+                cover: P9040139.JPG
         -
             to: Inverness, Scotland
             with: car
@@ -27,10 +33,16 @@ boucle:
             to: Eilean Donan Castle, Scotland
             with: car
             date: '2018-09-07'
+            album:
+                path: albums/eilean
+                cover: IMG_20180907_125206.jpg
         -
             to: Isle of Skye, Scotland
             with: car
             date: '2018-09-07'
+            album:
+                path: albums/skye
+                cover: P9080279.JPG
         -
             to: Fort William, Scotland
             with: car
@@ -43,6 +55,9 @@ boucle:
             to: Loch Lomond, Scotland
             with: car
             date: '2018-09-12'
+            album:
+                path: albums/loch_lomond
+                cover: IMG_20180912_124721.jpg
         -
             to: Stirling, Scotland
             with: car

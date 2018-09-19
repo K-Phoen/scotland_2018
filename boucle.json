@@ -26,7 +26,8 @@
                 },
                 "path": "",
                 "arrival_date": "2018-08-28",
-                "departure_date": "2018-08-31"
+                "departure_date": "2018-08-31",
+                "album": null
             }
         ],
         "car": [
@@ -43,7 +44,11 @@
                 },
                 "path": "",
                 "arrival_date": "2018-09-04",
-                "departure_date": "2018-09-06"
+                "departure_date": "2018-09-06",
+                "album": {
+                    "path": ".\/albums\/cairngorms",
+                    "cover": ".\/albums\/cairngorms\/boucle\/thumb_P9040139.JPG"
+                }
             },
             {
                 "from": {
@@ -58,7 +63,8 @@
                 },
                 "path": "",
                 "arrival_date": "2018-09-06",
-                "departure_date": "2018-09-07"
+                "departure_date": "2018-09-07",
+                "album": null
             },
             {
                 "from": {
@@ -73,7 +79,11 @@
                 },
                 "path": "",
                 "arrival_date": "2018-09-07",
-                "departure_date": "2018-09-07"
+                "departure_date": "2018-09-07",
+                "album": {
+                    "path": ".\/albums\/eilean",
+                    "cover": ".\/albums\/eilean\/boucle\/thumb_IMG_20180907_125206.jpg"
+                }
             },
             {
                 "from": {
@@ -88,7 +98,11 @@
                 },
                 "path": "",
                 "arrival_date": "2018-09-07",
-                "departure_date": "2018-09-10"
+                "departure_date": "2018-09-10",
+                "album": {
+                    "path": ".\/albums\/skye",
+                    "cover": ".\/albums\/skye\/boucle\/thumb_P9080279.JPG"
+                }
             },
             {
                 "from": {
@@ -103,7 +117,8 @@
                 },
                 "path": "",
                 "arrival_date": "2018-09-10",
-                "departure_date": "2018-09-10"
+                "departure_date": "2018-09-10",
+                "album": null
             },
             {
                 "from": {
@@ -118,7 +133,8 @@
                 },
                 "path": "",
                 "arrival_date": "2018-09-10",
-                "departure_date": "2018-09-12"
+                "departure_date": "2018-09-12",
+                "album": null
             },
             {
                 "from": {
@@ -133,7 +149,11 @@
                 },
                 "path": "",
                 "arrival_date": "2018-09-12",
-                "departure_date": "2018-09-12"
+                "departure_date": "2018-09-12",
+                "album": {
+                    "path": ".\/albums\/loch_lomond",
+                    "cover": ".\/albums\/loch_lomond\/boucle\/thumb_IMG_20180912_124721.jpg"
+                }
             },
             {
                 "from": {
@@ -148,7 +168,8 @@
                 },
                 "path": "",
                 "arrival_date": "2018-09-12",
-                "departure_date": "2018-09-13"
+                "departure_date": "2018-09-13",
+                "album": null
             },
             {
                 "from": {
@@ -163,7 +184,8 @@
                 },
                 "path": "",
                 "arrival_date": "2018-09-13",
-                "departure_date": "2018-09-15"
+                "departure_date": "2018-09-15",
+                "album": null
             }
         ],
         "plane": [
@@ -180,7 +202,11 @@
                 },
                 "path": "",
                 "arrival_date": "2018-08-31",
-                "departure_date": "2018-09-04"
+                "departure_date": "2018-09-04",
+                "album": {
+                    "path": ".\/albums\/edinburgh",
+                    "cover": ".\/albums\/edinburgh\/boucle\/thumb_P9020042.JPG"
+                }
             },
             {
                 "from": {
@@ -195,7 +221,8 @@
                 },
                 "path": "",
                 "arrival_date": "2018-09-15",
-                "departure_date": ""
+                "departure_date": "",
+                "album": null
             }
         ],
         "boat": [],
